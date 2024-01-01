@@ -1,0 +1,16 @@
+[
+{
+  "modid": "NotEnoughFrags",
+  "name": "NotEnoughFrags",
+  "description": "Hypixel Skyblock Frag Bot that automates joining, grinding, and leaving dungeons to grind frags in Floors 6 and 7.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["spookydeveloper01"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
