@@ -1,13 +1,13 @@
 [
 {
-  "modid": "NotEnoughFrags",
-  "name": "NotEnoughFrags",
-  "description": "Hypixel Skyblock Frag Bot that automates joining, grinding, and leaving dungeons to grind frags in Floors 6 and 7.",
+  "modid": "Pathfinder",
+  "name": "Pathfinder",
+  "description": "1.8.9 Pathfinder Mod for Forge Minecraft",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["spookydeveloper01"],
+  "authorList": ["listingclown3"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],

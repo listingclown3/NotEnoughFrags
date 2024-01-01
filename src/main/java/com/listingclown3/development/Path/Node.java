@@ -1,4 +1,4 @@
-package com.spooky.development.AStar;
+package com.listingclown3.development.Path;
 
 import net.minecraft.util.BlockPos;
 

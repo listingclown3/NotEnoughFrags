@@ -1,6 +1,6 @@
-package com.spooky.development;
+package com.listingclown3.development;
 
-import com.spooky.development.AStar.Node;
+import com.listingclown3.development.Path.Node;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockCarpet;
 import net.minecraft.block.BlockSlab;
@@ -35,7 +35,7 @@ import static net.minecraft.client.Minecraft.getMinecraft;
 
 @Mod(modid = Main.MODID, version = Main.VERSION)
 public class Main {
-    public static final String MODID = "NotEnoughFrags";
+    public static final String MODID = "Pathfinder";
     public static final String VERSION = "1.0";
     private List<BlockPos> linePositions = new ArrayList();
     private KeyBinding setStartPosKeyDijkstra = new KeyBinding("Set Start Position (Dijkstra)", Keyboard.KEY_O, "NotEnoughFrags");
